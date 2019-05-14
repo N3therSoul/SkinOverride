@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skinoverride",
+  "name": "Skin Override",
+  "description": "Use /skin <url.png> to update your skin ingame",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NetherSoul"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
